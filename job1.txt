@@ -1,0 +1,22 @@
+Applied Researcher - NLP & Information Extraction
+LinkedIn - San Francisco Bay Area
+Job Description
+
+At LinkedIn, we regularly process the semi-structured content in the 225+ million member profiles and the content they create on LinkedIn, such as comments, job descriptions, group discussions, and Influencer posts. We are building an NLP (Natural Language Processing) team at LinkedIn and this is a great opportunity to get in on the ground floor.
+Desired Skills & Experience
+
+Domain expertise in one or more of -- Sentiment analysis, Information Extraction (POS, N/E tagging with HMMs/CRF etc)
+Some Machine Learning & Text mining exposure and familiarity with R, Weka, NTLK etc. -- Feature extraction, classification, tokenization, and processing of Non-English text.
+Solid experience in Java, C++, or another object-oriented language.
+PhD in Computer Science or related discipline.
+Excellent communication skills, drive and discipline to get things done.
+We'd prefer if you also have:
+Worked with web-scale traffic and data.
+Experience with Hadoop, Pig, or other MapReduce paradigms.
+Experience with Lucene, SOLR or other open IR toolkits.
+Published work in academic conferences or industry circles.
+Involved in consumer-facing product development and design.
+Company Description
+
+
+LinkedIn takes your professional network online, giving you access to people, jobs and opportunities like never before. Built upon trusted connections and relationships, LinkedIn has established the world’s largest and most powerful professional network. Currently, more than 225 million professionals are on LinkedIn, including executives from all five hundred of the Fortune 500 companies, as well as a wide range of household names in technology, financial services, media, consumer packaged goods, entertainment, and numerous other industries. The company is publicly held and has a diversified business model with revenues coming from user subscriptions, advertising sales and hiring solutions.

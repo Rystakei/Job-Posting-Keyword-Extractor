@@ -1,0 +1,24 @@
+Computational Linguist/Speech Scientist
+Requisition Number:
+4309
+State:
+Massachusetts
+City:
+Lexington
+Description:
+The Human Language Technology Group is engaged in a wide range of information processing projects focusing on speech and language processing, text processing, and biometrics. Our speech and language processing R&D efforts include speech recognition, speaker recognition (identification, verification, and authentication), language and dialect identification, word spotting, speech coding, speech and audio signal enhancement, and machine translation. The group is initiating new R&D in advanced analytics for analyzing social networks based on speech, text, video, and network communications and activities. In each of the group's R&D areas, emphasis is placed on realistic data and experimental evaluation of techniques.
+
+POSITION DESCRIPTION:
+Computational linguist/speech scientist. The selected candidate will be the lead developer of acoustic and language models for ASR-systems in multiple languages. Selectees will be building models using MIT/LL's existing ASR engines and will be adding NLP and text pre/post-processing modules to improve keyword search and language model performance.
+
+QUALIFICATIONS:
+Education: MS in Computational Linguistics, Applied Linguistics, or related field. In lieu of an MS, a BS in Computational Linguistics, Applied Linguistics, or related field and 3-years of directly related experience and knowledge will be considered.
+
+Experience:
+Prior experience training models for HMM-based recognizers in different languages, working with NLP pre/post-modules and keyword word search is required. Understanding of ASR training/decoding processes is required. Experience developing phonetic lexicons is also a plus. 
+
+Skills:
+Coding/scripting skills needed for automation. Proficiency in foreign languages is highly desirable (translation skills from foreign languages also preferred).
+
+MIT Lincoln Laboratory is an Equal Opportunity Employer, M/F/D/V.
+U.S. citizenship is required.

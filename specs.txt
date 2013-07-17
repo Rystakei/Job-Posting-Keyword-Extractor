@@ -1,0 +1,48 @@
+-use nokogiri to crawl the web
+-filter out common words from document (stopwords gem - https://github.com/brez/stopwords)
+
+Use NLP gem 'treat'  
+https://github.com/louismullie/treat/wiki/Manual
+-save the tokens into a file
+-if token is repeated, increment the counter for that token 
+-save the job title
+-save the years of experience requested
+-gets definition for job skills term
+
+User will:
+-put in job description
+-optional: put in location
+-program will return the top 5, top 10 skills need
+-later: program returns average salary?
+-sends an email
+
+
+Example: Applied Researcher - NLP & Information Extraction
+http://www.linkedin.com/jobs?viewJob=&jobId=6116537&trk=jobs_vj_bmap&goback=%2Evjs_6168126_*2_*2_*2_false_*2_*2
+
+Skills:
+Sentiment analysis
+INformation Extraction (POS, N/E tagging with HMMs/CRFs)
+Machine Learning
+Text Mining 
+R
+NTLK
+Feature extraction
+classification
+tokenization
+processing Non-English text
+Java, C++ experience
+PHD in Computer Science
+
+Optional:
+Web-scale traffic
+Hadoop, Pig, MapReduce
+Lucene, SOLR, IR (information retrieval)
+
+Lucene and SOLR are used in search
+Weka - machine learning software
+
+Other Notes:
+
+http://www.indeed.com/jobtrends.jsp
+
