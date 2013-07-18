@@ -155,7 +155,7 @@ def get_results
   #sort frequent terms by order, place in a new hash
  @most_frequent_terms_hash = Hash[@more_than_one_appearance_hash.sort { |l, r| r[1] <=> l[1]}]
   #print the most frequent terms to the console
-  puts "These are the 10 most common pairs!"
+  puts "These are the 15 most common terms:"
   counter = 0
   while counter < 15
       puts "#{counter+1}. #{@most_frequent_terms_hash.keys[counter]} was mentioned #{@most_frequent_terms_hash.values[counter]} times." 
