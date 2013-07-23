@@ -80,7 +80,7 @@ puts ""
 puts "open_posting is running"
 #Use Snowball filter to remove stop words and remove punctuation from words
 #access link and save in variable
-posting = open(link, :allow_redirections => :safe).read
+posting = open(link, :allow_redirections => :safe).read.force_encoding("ISO-8859-1").encode("utf-8", replace: nil)
 #clean posting 
 sanitized_posting = Sanitize.clean(posting, :remove_contents => ['script', 'style'])
 
@@ -166,7 +166,7 @@ end
 def parse_file
 links_array = []
 #retrieve list of jobs from SimplyHired.com; contains 10 postings
-url = "http://api.simplyhired.com/a/jobs-api/xml-v2/q-NLP+jobs?pshid=51682&ssty=2&cflg=r&jbd=nlpjobcentral.jobamatic.com&clip=99.127.50.141"
+url = "http://api.simplyhired.com/a/jobs-api/xml-v2/q-NLP+jobs/ws-30?pshid=51682&ssty=2&cflg=r&jbd=nlpjobcentral.jobamatic.com&clip=99.127.50.141".encode("utf-8", replace: nil)
 doc = Nokogiri::XML(open(url))
 #get the links from the list and put them into an array
 doc.xpath("//src/@url").each do |key| 
